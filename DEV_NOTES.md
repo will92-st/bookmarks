@@ -9,3 +9,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-22
 - Resolved TODO items from previous session
 - Investigated performance bottleneck, noted findings
+
+## 2026-03-22
+- Added type hints to helper functions
+- Bumped patch version
+- Investigated performance bottleneck, noted findings
