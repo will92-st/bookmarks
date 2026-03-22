@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added type hints to helper functions
 - Bumped patch version
 - Investigated performance bottleneck, noted findings
+
+## 2026-03-22
+- Added .editorconfig for consistent formatting
+- Ran linter, applied auto-fixes
+- Updated license year
